@@ -6,7 +6,7 @@ on:
 
 env:
   DOTNET_VERSION: '8.0'
-  AZURE_WEBAPP_NAME: my-razorapp        # replace with your Azure App Service name
+  AZURE_WEBAPP_NAME: my-razorapp-sandbox        # replace with your Azure App Service name
   PROJECT_PATH: ./MyWebApp.csproj       # adjust if project in subfolder
 
 jobs:
